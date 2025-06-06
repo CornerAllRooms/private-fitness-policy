@@ -3,8 +3,8 @@
 
 # Corrected redirect rules
 [[redirects]]
-  from = "https://privacy.corneroom.co.za"
-  to = "https://cornerroom.co.za/privacy"
+  from = "privacy.corneroom.co.za"
+  to = "cornerroom.co.za/privacy"
   status = 301
 
 [[redirects]]
