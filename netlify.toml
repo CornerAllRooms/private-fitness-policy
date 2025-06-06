@@ -3,11 +3,11 @@
 
 # Corrected redirect rules
 [[redirects]]
-  from = "privacy.corneroom.co.za"
-  to = "cornerroom.co.za/privacy"
+  from = "/privacy"
+  to = "/"
   status = 301
 
 [[redirects]]
   from = "/privacy/*"
   to = "/:splat"
-  status = 200
+  status = 301
